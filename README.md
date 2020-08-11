@@ -3,6 +3,7 @@
 <!--
 **ranjan225/ranjan225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![HitCount](http://hits.dwyl.com/ranjan225/ranjan225.svg)](http://hits.dwyl.com/ranjan225/ranjan225)
 
 - 🔭 I’m currently working on Web application Pentesting & Bug Bounties.
 - 🌱 I’m currently learning Back-end development
