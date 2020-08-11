@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**ranjan225/ranjan225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 [![HitCount](http://hits.dwyl.com/ranjan225/ranjan225.svg)](http://hits.dwyl.com/ranjan225/ranjan225)
 
@@ -11,4 +10,4 @@
 - 💬 Ask me about Web app pentesting, Bug Bounties.
 - 📫 How to reach me: ranjan12574@gmail.com
 - ⚡ Fun fact: Will think about it.
--->
+
